@@ -1,0 +1,14 @@
+
+$ git log
+commit 7cabdca3825421e9fe20eb0c213cc287b7776449 (HEAD -> dev, origin/dev)
+Author: Sergio_Guzman <sergioguz.89@gmail.com>
+Date:   Wed Jun 21 02:03:39 2023 -0300
+
+    Nuevo commit
+
+commit 988246d82609c4be87eba4c88b05f906c8a911de
+Author: Sergio_Guzman <sergioguz.89@gmail.com>
+Date:   Wed Jun 21 01:43:19 2023 -0300
+
+    archivo creado
+
